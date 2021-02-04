@@ -45,3 +45,4 @@ requests limit:
 <hr/>
 آموزشها و اطلاعات بیشتر به صورت ویدئویی در لینک زیر قابل مشاهده هستند<br>
 <a href="https://www.aparat.com/paanaak">https://www.aparat.com/paanaak</a>
+</div>
